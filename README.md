@@ -1,5 +1,5 @@
-# ASL2TXT
-SOC project
+# ASL2TXT SOC project
+
 This project involved a depth understanding of python libraries like numpy, pandas, matplotlib, CV, and later in the final project also neede mediapipe.
 It also made me understand the Machine Learning models and their methods of optimization etc.
 In the final project I tried to predict the alphabets from the Sign Language Action.
